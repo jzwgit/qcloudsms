@@ -27,7 +27,7 @@ public class QcloudSmsTest {
         String appkey = "691490fb2f562f46b67ea53e4541de6";
 
         // 需要发送短信的手机号码
-        String[] phoneNumbers = {"15318724236", "13583285315", "17854298545","13280620778","18366880899"};
+        String[] phoneNumbers = {"1531872423", "1358328531", "1785429854","1328062077","1836688089"};
 
         // 短信模板ID，需要在短信应用中申请
         int templateId = 167505;
