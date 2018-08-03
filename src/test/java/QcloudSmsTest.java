@@ -21,10 +21,10 @@ public class QcloudSmsTest {
 
     public static void main(String[] args) {
         // 短信应用SDK AppID
-        int appid = 1400118436; // 1400开头
+        int appid = 140011843; // 1400开头
 
         // 短信应用SDK AppKey
-        String appkey = "691490fb2f562f46b67ea53e4541de65";
+        String appkey = "691490fb2f562f46b67ea53e4541de6";
 
         // 需要发送短信的手机号码
         String[] phoneNumbers = {"15318724236", "13583285315", "17854298545","13280620778","18366880899"};
